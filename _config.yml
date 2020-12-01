@@ -1,0 +1,20 @@
+# Site settings
+author: Melisa Bardhi
+title: How I Got Here
+header-img: img/home-bg.png
+email: melisabardhi@protonmail.com
+copyright_name: Melisa Bardhi
+description: > # this means to ignore newlines until "baseurl:"
+  My journey into data science
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  melisabardhi
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
