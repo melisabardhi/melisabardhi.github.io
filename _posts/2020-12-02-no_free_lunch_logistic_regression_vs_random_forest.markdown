@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "No free lunch: Logistic Regression vs. Random Forest"
-date:       2020-12-02 19:05:12 +0000
+date:       2020-12-02 14:05:13 -0500
 permalink:  no_free_lunch_logistic_regression_vs_random_forest
 ---
 
