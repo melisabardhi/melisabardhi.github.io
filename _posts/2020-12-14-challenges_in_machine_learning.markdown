@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Challenges in Machine Learning"
-date:       2020-12-14 12:30:22 +0000
+date:       2020-12-14 07:30:23 -0500
 permalink:  challenges_in_machine_learning
 ---
 
