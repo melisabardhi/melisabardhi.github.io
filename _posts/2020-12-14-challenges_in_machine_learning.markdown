@@ -16,7 +16,7 @@ As a student of Data Science, I am tremendously excited about its potential. How
 Successful anomaly detection hinges on an ability to accurately analyze time series data in real time. Time series data is typically a pair of two items: a timestamp for when a metric is measured, and the value associated with that metric. To detect outliers and spot anomalies real-time, a potential outlier is compared to peers, trends or a baseline. 
 
 Examples:
-* Detecting the appearance of an anomoly in satellite imagery
+* Detecting the appearance of an anomoly on earth's surface or atmosphere using satellite imagery
 * IT performance monitoring on resource consumption (such as abnormal CPU usage, memory usage, spikes, high/low loads)
 * Monitoring abnormal network traffic, such as traffic from unknown IP addresses or high volume to a specific host 
 * Banks identifying unusual transactions and requesting customer verification
@@ -46,7 +46,6 @@ Examples:
 Challenges: 
 One of the primary concerns with classification is that the sample of data may not be adequately representative by not ascribing enough importance to minority cases. Amazon tried building an artificial-intelligence tool to help with recruiting, but it showed a bias against women. Engineers found the AI was unfavorable toward female candidates because it had combed through male-dominated résumés to accrue its data.
 
-
 **Computer Vision**
 Computer Vision extracts information from images and recognizes specific concepts. It can therefore perform a variety of tasks such as recognizing faces, characters in an image, detecting the location of an object in an image, or classifying images. It does this by learning from a visual database that has been annotated manually depending on the type of information it wants to extract, and then running new images through a neural network composed of successive layers of neurons which associate the new image to familiar images. 
 
@@ -57,7 +56,8 @@ Examples:
 
 Challenges: Image factors like illumition, occlusion or low resolution, among others can limit the potential of facial recognition to work optimally. In Michigan, a faulty facial recognition match led to a man’s arrest for a crime he did not commit. There have been several cases in the US where an algorithm-based bot has accidentally identified a regular citizen as a criminal and has automatically suspended the driving licence. Similar cases have also occurred at airports all over the world, where innocent people have been “recognized” as terrorists. In another case, a Tesla engaged in autopilot mode collided with a tractor-trailer, due to its inability to quickly distringuish the color between the background sky and vehicle.
 
-**Recommendations**
+
+**Recommendation Systems**
 Recommendation systems use history and preferences to predict what users like. The recommendation function takes information about the user such as demographics, preferences and behavior (inferred through clicks, views and purchases) to predict the rating that user might assign to a product. It also measures user and product similarity to drive similar recommendations.
 
 Examples:
@@ -78,5 +78,5 @@ Examples:
 
 Challenges: Due to both the lack of examples in biomedical image processing and complexity of images studied, segmentation can be incorrect and wrongly diagnose a patient. The classification of biomedical images almost always has to be verified by a certified professional after being segmented by AI.
 
-The gravity of single mistake in these applications varies. In the case when human lives are involved - arresting someone, idenitifying a terrorist, diagnosing a disease - accuracy and ethics are of utmost importance. As AI increases its capabilities, we *must* ensure proper checks, diverse data, and ethical standards for research.
+The gravity of a single mistake in these applications varies. In cases where human lives are involved - arresting someone, identifying a terrorist, diagnosing a disease - ethical treatment of data and accurate results are of utmost importance. As AI increases its capabilities, we *must* ensure proper checks , diverse data, and ethical standards for research.
 
