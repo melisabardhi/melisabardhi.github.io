@@ -22,7 +22,7 @@ Examples:
 * Banks identifying unusual transactions and requesting customer verification
 
 Challenges: 
-Anomalous data is both scarce and hard to define, large obstacles in collecting enough training data to improve the model's ability to identify true anomalies. 
+Anomalous data is scarce and hard to define, both being large obstacles in collecting enough training data to improve a model's ability to identify true anomalies. 
 
 **Chatbot**
 Chatbots apply sophisticated Pattern Matches (“Artificial Intelligence Markup Language (AIML), Natural Language Understanding, and Natural Language Processing and/or Speech Recognition) methods, Sentiment Analysis, among other methods, to understand contents and needs and provide a suitable reply. There is an app layer, a database and APIs to call other external administration,
@@ -72,12 +72,11 @@ Challenges: The less data a recommendation system has about a user, the more lik
 Segmentation splits data into different clusters based on shared characteristics. Clustering uses algorithms to identify how different types of data are related and creates new segments when approproate. Similarity between data is determined through distance measurements.
 
 Examples:
-* Using deep learning for biomedical image processing to identify patterns, diseases etc.
+* Using deep learning for biomedical image processing of radiography, thermography, ultrasound, nuclear medicine and CT to identify patterns, diseases etc. 
 * Segmenting businesses based on industry, location, number of employees, products, annual profit, etc.
 * Using targeted marketing on customers separated based on behavior, demographic information, lifestyle, etc.
 
-Challenges: Individuals are incorrectly diagnosed due incorrect segmentation.
+Challenges: Due to both the lack of examples in biomedical image processing and complexity of images studied, segmentation can be incorrect and wrongly diagnose a patient. The classification of biomedical images almost always has to be verified by a certified professional after being segmented by AI.
 
-
-In conclusion, as AI increases its capabilities, ensuring proper checks, diverse data, and ethical standards for research is of utmost importance.
+The gravity of single mistake in these applications varies. In the case when human lives are involved - arresting someone, idenitifying a terrorist, diagnosing a disease - accuracy and ethics are of utmost importance. As AI increases its capabilities, we *must* ensure proper checks, diverse data, and ethical standards for research.
 
