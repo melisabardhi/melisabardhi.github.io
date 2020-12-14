@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Challenges in Machine Learning"
+title:      "Challenges in Machine Learning Applications"
 date:       2020-12-14 07:30:23 -0500
 permalink:  challenges_in_machine_learning
 ---
@@ -11,6 +11,7 @@ Machine Learning adoption is widespread across all industries. It's ability to p
 However, I think we need to pause and introspect on it's shortcomings just as much as we tout its benefits. Recognizing that Machine Learning can impact lives - on such a large scale and in such rapid speed - at the press of a button, we have a responsibility to make thoughtful decisions on its applications. After all, our children will live in this world we are creating.
 
 As a student of Data Science, I am tremendously excited about its potential. However, the more I delve into the subject, the more I also recognize its deficiencies. I believe this is a good thing, and this is something all Data Scientists need to embrace more. We need to discuss the shortcomings of the models we build just as much as we espouse their benefits, to raise awareness and focus our resources towards building better, not necessarily more, artificial intelligence. In this blog, I'd like to broadly cover the use cases of Machine Learning, while also providing examples of where ML has gone wrong and the lessons we should learn from it. 
+
 
 **Anomaly Detection**
 Successful anomaly detection hinges on an ability to accurately analyze time series data in real time. Time series data is typically a pair of two items: a timestamp for when a metric is measured, and the value associated with that metric. To detect outliers and spot anomalies real-time, a potential outlier is compared to peers, trends or a baseline. 
@@ -45,6 +46,7 @@ Examples:
 
 Challenges: 
 One of the primary concerns with classification is that the sample of data may not be adequately representative by not ascribing enough importance to minority cases. Amazon tried building an artificial-intelligence tool to help with recruiting, but it showed a bias against women. Engineers found the AI was unfavorable toward female candidates because it had combed through male-dominated résumés to accrue its data.
+
 
 **Computer Vision**
 Computer Vision extracts information from images and recognizes specific concepts. It can therefore perform a variety of tasks such as recognizing faces, characters in an image, detecting the location of an object in an image, or classifying images. It does this by learning from a visual database that has been annotated manually depending on the type of information it wants to extract, and then running new images through a neural network composed of successive layers of neurons which associate the new image to familiar images. 
