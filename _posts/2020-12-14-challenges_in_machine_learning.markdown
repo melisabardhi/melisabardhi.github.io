@@ -58,7 +58,7 @@ Examples:
 * Analyzing displayed emotion, or attention
 
 Challenges: 
-Image factors like illumination, occlusion or low resolution, among others can limit the potential of facial recognition to work optimally. In Michigan, a faulty facial recognition match led to a man’s arrest for a crime he did not commit. There have been several cases in the US where an algorithm-based bot has accidentally identified a regular citizen as a criminal and has automatically suspended the driving license. Similar cases have also occurred at airports all over the world, where innocent people have been “recognized” as terrorists. In another case, a Tesla engaged in autopilot mode collided with a tractor-trailer, due to its inability to quickly distinguish the color between the background sky and vehicle.
+Image factors like illumination, occlusion or low resolution, among others can limit the potential of facial recognition to work optimally. In Michigan, a faulty facial recognition match led to a man’s arrest for a crime he did not commit. There have been several cases in the US where an algorithm-based bot has accidentally identified a regular citizen as a criminal and has automatically suspended their driving license. Similar cases have also occurred at airports all over the world, where innocent people have been “recognized” as terrorists. In another case, a Tesla engaged in autopilot mode collided with a tractor-trailer, due to its inability to quickly distinguish the color between the background sky and vehicle.
 
 
 **Recommendation Systems** 
