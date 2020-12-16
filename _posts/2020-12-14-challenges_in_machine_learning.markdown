@@ -26,7 +26,7 @@ Anomalous data is scarce and hard to define, both being large obstacles in colle
 
 
 **Chatbot** 
-Chatbots apply sophisticated Pattern Matches (“Artificial Intelligence Markup Language (AIML), Natural Language Understanding, and Natural Language Processing and/or Speech Recognition) methods, Sentiment Analysis, among other methods, to understand contents and needs and provide a suitable reply. There is an app layer, a database and APIs to call other external administration,
+Chatbots apply sophisticated Pattern Matching methods (i.e., Artificial Intelligence Markup Language (AIML), Natural Language Understanding, Natural Language Processing, Speech Recognition, or Sentiment Analysis) to understand user contents and needs and provide a suitable reply. Chatbots include an app layer, a database and APIs.
 
 Examples:
 * Virtual Assistants such as Eno, Google Assistant, Amazon Alexa, Baidu Xiaodu Voice Assistant, etc.
