@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Evaluating the Effectiveness of America's Response to COVID-19"
-date:       2020-12-02 19:08:00 +0000
+date:       2020-12-02 14:08:01 -0500
 permalink:  evaluating_the_effectiveness_of_americas_response_to_covid-19
 ---
 
@@ -63,7 +63,10 @@ Malik also finds that severity of COVID-19 can vary tremendously by nation, due 
 -	Wealth and income have weak negative effects (greater resources, space, access to care etc.)
 
 **Current State:**
-I was curious whether the trends Malik observed have persisted since this paper was published. To find out, I looked at one (of many) COVID-19 dashboards listing the latest numbers. As of 04/14, there are 607, 000 confirmed cases in the United States. Malik supplies predictions as late as 04/14, at 2,180,000 cases. That is, 28% of the predicted cases have manifested. Seeing this drastic difference between predictions and actuals, we could stretch to say social-distancing policies have effectively avoided the other 72% of potential cases we would otherwise have without those measures. While these policies are working, the battle isn’t over yet; 607,000 is still too many. The U.S. needs to more rigorously incentivize social distancing and suppress the asymptomatic force β, until a secondary outbreak is no longer likely. 
+I was curious whether the trends Malik observed have persisted since this paper was published. To find out, I looked at one (of many) COVID-19 dashboards listing the latest numbers. As of 04/14, there are 607, 000 confirmed cases in the United States. Malik supplies predictions as late as 04/14, at 2,180,000 cases. That is, 28% of the predicted cases have manifested. This makes the key and unlikely assumption that at this time everyone has been tested and 607,000 includes all cases COVID-19. Seeing this drastic difference between predictions and actuals, we could stretch to say social-distancing policies have effectively avoided the other 72% of potential cases we would otherwise have without those measures. While these policies are working, they are not working as effectively as they should; 607,000 is still too many. The U.S. needs to more rigorously incentivize social distancing, testing and contact tracing to suppress the asymptomatic force β, until a secondary outbreak is no longer likely. 
+
+
+* This blog was originally published on 04/14/20
 
 **Sources:**
 
