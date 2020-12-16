@@ -85,5 +85,5 @@ Challenges:
 Due to both the lack of examples in biomedical image processing and complexity of images studied, segmentation can be incorrect and wrongly diagnose a patient. The classification of biomedical images almost always has to be verified by a certified professional after being segmented by AI.
 
 
-The gravity of a single mistake in these applications varies. In cases where human lives are involved - arresting someone, identifying a terrorist, diagnosing a disease - ethical treatment of data and accurate results are of utmost importance. As AI increases its capabilities, we must ensure proper checks , diverse data, and ethical standards for research.
+The gravity of a single mistake in these applications varies. In cases where human lives are involved - arresting someone, identifying a terrorist, diagnosing a disease - ethical treatment of data and accurate results are of utmost importance. As AI increases its capabilities, we must ensure proper checks, diverse data, and ethical standards for research.
 
